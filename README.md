@@ -42,7 +42,8 @@ This project is not affiliated with Aternos, Mojang, or Microsoft. Use at your o
 ---
 
 ## ❤️ Credits
-*   **Slobos (Discord: sloboscc)** — Original creator & idea. (The GOAT 🐐)
-*   **Mr.Juice (Discord: Mr.Juice3046)** — Updates, Guide, & Maintenance.
+*   **Slobos (Discord: sloboscc)** — Original idea and Designer. (The GOAT 🐐) **
+*   **Gurniwaz (Discord: gurniwazff)** - The creator and coder. {also(The GOAT 🐐)} **
+*
 
 **License**: MIT License
