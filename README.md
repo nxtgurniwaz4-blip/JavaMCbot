@@ -44,6 +44,6 @@ This project is not affiliated with Aternos, Mojang, or Microsoft. Use at your o
 ## ❤️ Credits
 *   **Slobos (Discord: sloboscc)** — Original idea and Designer. (The GOAT 🐐) **
 *   **Gurniwaz (Discord: gurniwazff)** - The creator and coder. {also(The GOAT 🐐)} **
-*
+*   Peaceee Ouuttttttttt
 
 **License**: MIT License
