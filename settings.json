@@ -1,3 +1,4 @@
+
 {
   "name": "AFK Bot",
   "bot-account": {
@@ -19,67 +20,44 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "chalol78"
+      "enabled": false,
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "67!",
-        "I like to play Minecraft!"
-      ]
+      "messages": []
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 15000,
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
-    "circle-walk": {
-      "enabled": true,
-      "radius": 4,
-      "speed": 3000
-    },
-    "look-around": {
-      "enabled": true,
-      "interval": 5000
-    },
-    "random-jump": {
-      "enabled": false,
-      "interval": 10000
-    }
+    "enabled": true
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
+    "combat": false,
     "beds": false,
     "chat": true,
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
-    "auto-eat": true
+    "attack-mobs": false,
+    "auto-eat": false
   },
   "beds": {
     "pick-up-day": false,
     "place-night": false
   },
   "discord": {
-    "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1537329941492797542/HKbPfru5A12F4M6NHQ0a8rp5UM2uwVjw5f2MJ9lsWxVBIuPuoZ6OYuM-cyJxEFw_QIzb",
-    "events": {
-      "connect": true,
-      "disconnect": true,
-      "chat": true
-    }
+    "enabled": true
   },
   "chat": {
     "respond": true
