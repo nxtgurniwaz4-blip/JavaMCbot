@@ -8,7 +8,7 @@ const { Client, GatewayIntentBits } = require("discord.js");
 let logEntries = [];
 
 // ⚠️ PASTE YOUR SECRETS DISCORD BOT TOKEN HERE INSIDE THE QUOTES
-const DISCORD_BOT_TOKEN = "P"; 
+const DISCORD_BOT_TOKEN = ""; 
 
 function addLog(msg) {
   const time = new Date().toLocaleTimeString();
